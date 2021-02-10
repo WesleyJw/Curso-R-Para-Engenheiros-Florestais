@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575027925800.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3890734428",
+    "id" : "7C62BE03",
+    "lastKnownWriteTime" : 1575040137,
+    "last_content_update" : 1575040137184,
+    "path" : "~/MEGAsync/PortfolioGithub/CursoR_SEF/sef_aulas/aula2.R",
+    "project_path" : "aula2.R",
+    "properties" : {
+        "cursorPosition" : "61,42",
+        "scrollLine" : "57",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
